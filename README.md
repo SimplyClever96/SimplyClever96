@@ -23,6 +23,12 @@
  <img src="./assets/Python.png" height="32" alt="HTML" style="margin-right:8px;" title="Python" />
 </p>
 
+## Contributor
+
+<p align="center">
+ I proudly support open‑source projects (even Jedi support open source) — including being listed as a contributor to :
+ - [![Sniffnet](https://img.shields.io/badge/Contributor-Sniffnet-blue?logo=github)](https://github.com/GyulyVGC/sniffnet) through the all‑contributors program  for helping the project grow.
+
 ##  Contact
 
   <a href="https://www.linkedin.com/in/kevin-warschkow" target="_blank" title="Kevin Warschkow on LinkedIn" style="text-decoration: none">
