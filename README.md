@@ -14,13 +14,13 @@
 
 <h3> Project-Software</h3>
 <p align="left">
- <img src="./assets/Jira.png" height="32" alt="HTML" style="margin-right:8px;" />
- <img src="./assets/polarion.png" height="32" alt="HTML" style="margin-right:8px;" />
+ <img src="./assets/Jira.png" height="32" alt="HTML" style="margin-right:8px;" title="Atlassian Jira" />
+ <img src="./assets/polarion.png" height="32" alt="HTML" style="margin-right:8px;" title="Siemens Polarion" />
 </p>
 
 <h3> Programming</h3>
 <p align="left">
- <img src="./assets/Python.png" height="32" alt="HTML" style="margin-right:8px;" />
+ <img src="./assets/Python.png" height="32" alt="HTML" style="margin-right:8px;" title="Python" />
 </p>
 
 ##  Contact
