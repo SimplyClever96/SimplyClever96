@@ -25,6 +25,6 @@
 
 ##  Contact
 
-  <a href="www.linkedin.com/in/kevin-warschkow" target="_blank" title="Kevin Warschkow on LinkedIn" style="text-decoration: none">
+  <a href="https://www.linkedin.com/in/kevin-warschkow" target="_blank" title="Kevin Warschkow on LinkedIn" style="text-decoration: none">
     <img src="./assets/linkedin.png" width="32" height="32" alt="LinkedIn" />
   </a>
