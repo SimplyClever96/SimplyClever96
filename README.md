@@ -15,7 +15,7 @@
 <h3> Project-Software</h3>
 <p align="left">
  <img src="./assets/Jira.png" height="32" alt="HTML" style="margin-right:8px;" />
- <img src="./assets/Polarion.png" height="32" alt="HTML" style="margin-right:8px;" />
+ <img src="./assets/polarion.png" height="32" alt="HTML" style="margin-right:8px;" />
 </p>
 
 <h3> Programming</h3>
