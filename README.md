@@ -26,8 +26,15 @@
 ## Contributor
 
 <p align="center">
- I proudly support open‑source projects (even Jedi support open source) — including being listed as a contributor to :
- - [![Sniffnet](https://img.shields.io/badge/Contributor-Sniffnet-blue?logo=github)](https://github.com/GyulyVGC/sniffnet) through the all‑contributors program  for helping the project grow.
+  I proudly support open‑source projects — even Jedi support open source.<br />
+  I’m listed as a contributor to:
+  <br /><br />
+  <a href="https://github.com/GyulyVGC/sniffnet" target="_blank">
+    <img src="https://img.shields.io/badge/Contributor-Sniffnet-blue?logo=github" alt="Sniffnet Contributor Badge" />
+  </a>
+  <br />
+  (via the all‑contributors program)
+</p>
 
 ##  Contact
 
